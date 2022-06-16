@@ -20,12 +20,12 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href='https://facebook.com'><FaFacebookSquare/></a>
-        <a href='https://instagram.com'><RiInstagramFill/></a>
-        <a href='https://twitter.com'><FaTwitterSquare/></a>
+        <a href='https://facebook.com'><FaFacebookSquare size="1.5rem"/></a>
+        <a href='https://instagram.com'><RiInstagramFill size="1.5rem"/></a>
+        <a href='https://twitter.com'><FaTwitterSquare size="1.5rem"/></a>
       </div>
       <div className='footer__copyright'>
-        <small>&copy; Dan's Portfolio. Everything is gonna be all right!!</small>
+        <small>&copy; Dan's Portfolio. Everything is gonna beall right!!</small>
       </div>
     </footer>
   )
