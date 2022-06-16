@@ -25,7 +25,7 @@ const Footer = () => {
         <a href='https://twitter.com'><FaTwitterSquare size="1.5rem"/></a>
       </div>
       <div className='footer__copyright'>
-        <small>&copy; Dan's Portfolio. Everything is gonna beall right!!</small>
+        <small>&copy; Dan's Portfolio. Everything is gonna be all right!!</small>
       </div>
     </footer>
   )
