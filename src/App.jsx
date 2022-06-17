@@ -1,4 +1,5 @@
 import React from 'react'
+import { HashRouter } from 'react-router-dom'
 import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 import About from './components/about/About'
@@ -11,7 +12,8 @@ import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
-    <>
+    <div>
+    <HashRouter basename={process.env.PUBLIC_URL}>
         <Header />
         <Nav />
         <About />
@@ -21,7 +23,8 @@ const App = () => {
         <Testimonials />
         <Contact />
         <Footer />
-    </>   
+    </HashRouter>   
+    </div>
   )
 }
 
