@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/yhupaul/react-portfolio-website/static/media/Aqua Marine.1816821b.jpg"
   },
   {
-    "revision": "60da51ae7cf74f35122669f8bf9e361e",
+    "revision": "5843f7498f3300c18e0cb0e3ad184281",
     "url": "/yhupaul/react-portfolio-website/index.html"
   }
 ];
