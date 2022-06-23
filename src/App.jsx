@@ -1,10 +1,10 @@
 import React from 'react'
-import { HashRouter } from 'react-router-dom'
-// import {
-//   BrowserRouter as Router,
-//   Routes,
-//   Route,
-// } from "react-router-dom"
+// import { HashRouter } from 'react-router-dom'
+import {
+  HashRouter,
+  Routes,
+  Route,
+} from "react-router-dom"
 import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 import About from './components/about/About'
@@ -18,7 +18,7 @@ import Footer from './components/footer/Footer'
 const App = () => {
   return (
     <div>
-      {/* <Router>
+      <HashRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path='./react-portfolio-website' exact component={Header}/>
           <Route path='./react-portfolio-website' exact component={Nav}/>
@@ -30,8 +30,8 @@ const App = () => {
           <Route path='./react-portfolio-website' exact component={Contact}/>
           <Route path='./react-portfolio-website' exact component={Footer}/>
         </Routes>
-      </Router> */}
-    <HashRouter basename={process.env.PUBLIC_URL}>
+      </HashRouter>
+    {/* <HashRouter basename={process.env.PUBLIC_URL}>
         <Header />
         <Nav />
         <About />
@@ -41,7 +41,7 @@ const App = () => {
         <Testimonials />
         <Contact />
         <Footer />
-    </HashRouter>   
+    </HashRouter>    */}
     </div>
   )
 }
