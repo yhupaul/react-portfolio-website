@@ -18,7 +18,7 @@ const data = [
     image: IMG2,
     title: 'Ydanmovie',
     github: 'https://github.com/yhupaul/ydanmovie',
-    demo: 'https://yhupaul.github.io/ydanmovie/'
+    demo: 'https://yhupaul.github.io/YdanMovie/'
   },
 ]
 
