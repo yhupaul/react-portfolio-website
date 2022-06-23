@@ -1,7 +1,5 @@
 import React from 'react'
 
-// import RESUME from '../../assets/Dan you (3).pdf'
-
 const RTA = () => {
   return (
     <div className='rta'>
