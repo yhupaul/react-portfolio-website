@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6f8d399c0a1862b5a5f5",
+    "revision": "7b20a86bbd7b1b23741c",
     "url": "/react-portfolio-website/static/css/main.2d270951.chunk.css"
   },
   {
-    "revision": "6f8d399c0a1862b5a5f5",
-    "url": "/react-portfolio-website/static/js/main.6f8d399c.chunk.js"
+    "revision": "7b20a86bbd7b1b23741c",
+    "url": "/react-portfolio-website/static/js/main.7b20a86b.chunk.js"
   },
   {
     "revision": "b60fdf312308693064a9",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio-website/static/media/Aqua Marine.1816821b.jpg"
   },
   {
-    "revision": "2221e9f6a9857429015e2336adac062c",
+    "revision": "c4c57a762118bf4a37ef4ea236a4e880",
     "url": "/react-portfolio-website/index.html"
   }
 ];
