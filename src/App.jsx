@@ -12,8 +12,7 @@ import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
-    <div>
-    <HashRouter>
+    <HashRouter basename={process.env.PUBLIC_URL}>
         <Header />
         <Nav />
         <About />
@@ -24,7 +23,6 @@ const App = () => {
         <Contact />
         <Footer />
     </HashRouter>   
-    </div>
   )
 }
 
