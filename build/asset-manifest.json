@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.f8652d58.chunk.css",
-  "main.js": "/static/js/main.87402aaf.chunk.js",
-  "main.js.map": "/static/js/main.87402aaf.chunk.js.map",
+  "main.css": "/static/css/main.39e544d2.chunk.css",
+  "main.js": "/static/js/main.425d5a17.chunk.js",
+  "main.js.map": "/static/js/main.425d5a17.chunk.js.map",
   "static/css/1.2ad63f7d.chunk.css": "/static/css/1.2ad63f7d.chunk.css",
   "static/js/1.b60fdf31.chunk.js": "/static/js/1.b60fdf31.chunk.js",
   "static/js/1.b60fdf31.chunk.js.map": "/static/js/1.b60fdf31.chunk.js.map",
@@ -16,9 +16,9 @@
   "static/media/guy.png": "/static/media/guy.04867da4.png",
   "static/media/scientist.png": "/static/media/scientist.47ca908a.png",
   "static/media/index.css": "/static/media/Aqua Marine.1816821b.jpg",
-  "static/css/main.f8652d58.chunk.css.map": "/static/css/main.f8652d58.chunk.css.map",
   "static/css/1.2ad63f7d.chunk.css.map": "/static/css/1.2ad63f7d.chunk.css.map",
+  "static/css/main.39e544d2.chunk.css.map": "/static/css/main.39e544d2.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.cbbc71f9f539d390976e600cb45cecea.js": "/precache-manifest.cbbc71f9f539d390976e600cb45cecea.js",
+  "precache-manifest.9192fa8fe4aa888dae33810b46626aa9.js": "/precache-manifest.9192fa8fe4aa888dae33810b46626aa9.js",
   "service-worker.js": "/service-worker.js"
 }
