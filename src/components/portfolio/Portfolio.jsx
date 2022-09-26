@@ -9,7 +9,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Momentem',
+    title: 'ToDoMomentem',
     github: 'https://github.com/yhupaul/momentum',
     demo: 'https://yhupaul.github.io/momentum/'
   },
@@ -19,6 +19,13 @@ const data = [
     title: 'Ydanmovie',
     github: 'https://github.com/yhupaul/ydanmovie',
     demo: 'https://yhupaul.github.io/YdanMovie/'
+  },
+  {
+    id: 3,
+    image: IMG1,
+    title: 'Vancouver Bank',
+    github: 'https://github.com/yhupaul/momentum',
+    demo: 'https://yhupaul.github.io/momentum/'
   },
 ]
 

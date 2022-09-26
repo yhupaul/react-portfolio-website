@@ -15,12 +15,12 @@ const App = () => {
     <div>
     <HashRouter basename={process.env.PUBLIC_URL}>
       <Header />
+      {/* <About /> */}
       <Nav />
-      <About />
+      <Portfolio />
       <Experience />
       <Services />
-      <Portfolio />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Contact />
       <Footer />
     </HashRouter>   

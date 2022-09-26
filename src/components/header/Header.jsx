@@ -3,6 +3,7 @@ import './header.css'
 import RTA from './RTA'
 import ME from '../../assets/main.jpg'
 import HeaderSocials from './HeaderSocials'
+import About from '../about/About'
 
 const Header = () => {
   return (
@@ -13,12 +14,13 @@ const Header = () => {
         <h5 className='text-light'>Fullstack Developer</h5>
         <RTA />
         <HeaderSocials />
+        <About /> 
 
-        <div className='me'>
+        {/* <div className='me'>
           <img src={ME} alt='me' />
-        </div>
+        </div> */}
 
-        <a href='#contact' className='scroll__down'>Scroll Down</a>
+        {/* <a href='#contact' className='scroll__down'>Scroll Down</a> */}
       </div>
     </header>
   )
